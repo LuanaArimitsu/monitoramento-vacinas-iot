@@ -7,8 +7,6 @@ O protótipo lê a temperatura de um sensor DS18B20, aciona um buzzer quando ela
 ## Demonstração
 
 - [Executar o projeto no Wokwi](https://wokwi.com/projects/481607136168156161)
-- [Assistir ao vídeo de demonstração](https://youtu.be/5unmxdcgXqU)
-- [Repositório](https://github.com/LuanaArimitsu/monitoramento-vacinas-iot)
 
 ## Componentes e ligações
 
